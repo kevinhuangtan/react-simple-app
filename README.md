@@ -1,4 +1,5 @@
-In terminal
+Simple React app
+================
 
-1.git clone https://github.com/kevinhuangtan/html-css-basic-personal-webpage.git
-2. open index.html
+1. A simple react app that requires no dependecies
+2. just open index.html
